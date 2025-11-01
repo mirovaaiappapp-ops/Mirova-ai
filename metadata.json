@@ -1,0 +1,8 @@
+{
+  "name": "MIROVA AI",
+  "description": "MIROVA is a smart, creative, and conversational AI assistant that combines multiple advanced AI models to deliver text, image, video, voice, and app creation capabilities — all in one platform.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
